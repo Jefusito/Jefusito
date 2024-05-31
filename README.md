@@ -5,10 +5,6 @@
 
 Siempre estoy en búsqueda de nuevas oportunidades para aprender y crecer profesionalmente. Me encanta colaborar en proyectos interdisciplinarios que desafíen mi ingenio y creatividad. Estoy ansioso por contribuir con mis habilidades en equipos de investigación y desarrollo.
 
-Si compartes mi pasión por la ciencia y la tecnología, ¡me encantaría conectarme contigo y explorar posibles colaboraciones!
-
-Puedes encontrar más sobre mi trabajo y proyectos en mi perfil.
-
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Jeff) 
 
