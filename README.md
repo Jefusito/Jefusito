@@ -1,7 +1,7 @@
 # 💫About Me :
 ### Sobre mí
 
-¡Hola! Soy un joven físico y programador apasionado por la ciencia y la tecnología. Mi carrera se centra en la física, donde aplico principios científicos para resolver problemas complejos. Además, tengo una fuerte inclinación por la programación, utilizando Python y otras herramientas para desarrollar soluciones innovadoras y participar en emocionantes proyectos de investigación.
+¡Hola! Soy un joven Físico y programador apasionado por la ciencia y la tecnología. Mi carrera se centra en la física, donde aplico principios científicos para resolver problemas complejos. Además, tengo una fuerte inclinación por la programación, utilizando Python y otras herramientas para desarrollar soluciones innovadoras y participar en emocionantes proyectos de investigación.
 
 Siempre estoy en búsqueda de nuevas oportunidades para aprender y crecer profesionalmente. Me encanta colaborar en proyectos interdisciplinarios que desafíen mi ingenio y creatividad. Estoy ansioso por contribuir con mis habilidades en equipos de investigación y desarrollo.
 
