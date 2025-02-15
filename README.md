@@ -88,8 +88,3 @@
   <img src="https://streak-stats.demolab.com?user=Jefusito&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Jefusito/Jefusito/output/snake.svg" alt="Snake animation" />
-
-###
