@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Jefusito</h1>
+<h1 align="center">Hey there 👋 I'm Jefu</h1>
 
 ###
 
